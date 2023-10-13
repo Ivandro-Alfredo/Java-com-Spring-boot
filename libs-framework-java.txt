@@ -1,0 +1,5 @@
+spring boot
+project lombock
+H2 Banco -- para armazenar em memoria...(nunca para produção)
+spring data jpa 
+bcrypt
